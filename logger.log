@@ -1,0 +1,104 @@
+INFO - 2022-11-12 10:08:46,705 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:08:46,705 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:08:46,706 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:08:46,706 - S3 scanner - [+] 6 accounts were loaded
+DEBUG - 2022-11-12 10:08:47,983 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSOrganizationsFullAccess_bd7ad3a67b549263/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::124835566415:role/AWSServiceRoleForOrganizations
+INFO - 2022-11-12 10:10:30,333 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:10:30,334 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:10:30,334 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:10:30,334 - S3 scanner - [+] 6 accounts were loaded
+DEBUG - 2022-11-12 10:10:31,592 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSOrganizationsFullAccess_bd7ad3a67b549263/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::124835566415:role/AWSReservedSSO_AWSOrganizationsFullAccess_bd7ad3a67b549263
+INFO - 2022-11-12 10:11:14,889 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:11:14,890 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:11:14,890 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:11:14,890 - S3 scanner - [+] 6 accounts were loaded
+DEBUG - 2022-11-12 10:11:16,170 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSOrganizationsFullAccess_bd7ad3a67b549263/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::124835566415:role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad
+INFO - 2022-11-12 10:12:51,462 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:12:51,462 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:12:51,463 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:12:51,463 - S3 scanner - [+] 6 accounts were loaded
+DEBUG - 2022-11-12 10:12:52,739 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSOrganizationsFullAccess_bd7ad3a67b549263/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::124835566415:role/test-secrets
+INFO - 2022-11-12 10:14:51,776 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:14:51,776 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:14:51,776 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:14:51,776 - S3 scanner - [+] 6 accounts were loaded
+DEBUG - 2022-11-12 10:14:53,021 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::124835566415:role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad
+INFO - 2022-11-12 10:16:58,296 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:16:58,296 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:16:58,296 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:16:58,296 - S3 scanner - [+] 1 accounts were loaded
+DEBUG - 2022-11-12 10:16:59,573 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::647741992969:role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad
+INFO - 2022-11-12 10:17:22,924 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:17:22,925 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:17:22,925 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:17:22,925 - S3 scanner - [+] 1 accounts were loaded
+DEBUG - 2022-11-12 10:17:24,212 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::647741992969:role/test-secrets
+INFO - 2022-11-12 10:26:45,530 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:26:45,530 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:26:45,530 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:26:45,530 - S3 scanner - [+] 1 accounts were loaded
+DEBUG - 2022-11-12 10:26:46,807 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::647741992969:role/test-secrets
+INFO - 2022-11-12 10:26:53,284 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:26:53,284 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:26:53,284 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:26:53,284 - S3 scanner - [+] 1 accounts were loaded
+INFO - 2022-11-12 10:27:44,969 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:27:44,969 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:27:44,969 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:27:44,969 - S3 scanner - [+] 2 accounts were loaded
+DEBUG - 2022-11-12 10:27:48,238 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::795722062401:role/test-secrets-role
+INFO - 2022-11-12 10:32:11,050 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:32:11,050 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:32:11,050 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:32:11,050 - S3 scanner - [+] 2 accounts were loaded
+INFO - 2022-11-12 10:34:29,857 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:34:29,857 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:34:29,857 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:34:29,857 - S3 scanner - [+] 3 accounts were loaded
+INFO - 2022-11-12 10:34:36,961 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in peppermint account
+INFO - 2022-11-12 10:40:03,503 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:40:03,504 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:40:03,504 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:40:03,504 - S3 scanner - [+] 3 accounts were loaded
+INFO - 2022-11-12 10:40:10,303 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in peppermint account
+INFO - 2022-11-12 10:40:14,782 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:40:14,783 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:40:14,783 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:40:14,783 - S3 scanner - [+] 3 accounts were loaded
+INFO - 2022-11-12 10:40:21,313 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in peppermint account
+INFO - 2022-11-12 10:40:29,220 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:40:29,220 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:40:29,220 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:40:29,220 - S3 scanner - [+] 4 accounts were loaded
+INFO - 2022-11-12 10:40:35,469 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in peppermint account
+INFO - 2022-11-12 10:41:38,892 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:41:38,892 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:41:38,892 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:41:38,892 - S3 scanner - [+] 4 accounts were loaded
+INFO - 2022-11-12 10:41:45,531 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in peppermint account
+DEBUG - 2022-11-12 10:41:47,050 - S3 scanner - [-] get_sts_token exception raise -> An error occurred (AccessDenied) when calling the AssumeRole operation: User: arn:aws:sts::647741992969:assumed-role/AWSReservedSSO_AWSAdministratorAccess_46a9d82f8c7315ad/jonathan.ng@handshakes.com.sg is not authorized to perform: sts:AssumeRole on resource: arn:aws:iam::508856734184:role/test-secrets-role
+INFO - 2022-11-12 10:45:21,867 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:45:21,868 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:45:21,868 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:45:21,868 - S3 scanner - [+] 4 accounts were loaded
+INFO - 2022-11-12 10:45:28,774 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in maintenance account
+INFO - 2022-11-12 10:47:42,460 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:47:42,461 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:47:42,461 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:47:42,461 - S3 scanner - [+] 5 accounts were loaded
+INFO - 2022-11-12 10:47:49,527 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in maintenance account
+INFO - 2022-11-12 10:53:17,247 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:53:17,248 - S3 scanner - [+] Scanning for files which last modified since 2022-11-11 00:00:00+00:00
+INFO - 2022-11-12 10:53:17,248 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:53:17,248 - S3 scanner - [+] 6 accounts were loaded
+INFO - 2022-11-12 10:53:30,578 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in maintenance account
+INFO - 2022-11-12 10:55:30,367 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:55:30,367 - S3 scanner - [+] Scanning for files which last modified since 2022-08-04 00:00:00+00:00
+INFO - 2022-11-12 10:55:30,368 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:55:30,368 - S3 scanner - [+] 6 accounts were loaded
+INFO - 2022-11-12 10:55:43,388 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in maintenance account
+INFO - 2022-11-12 10:56:08,617 - S3 scanner - [+] Prerequisite checks passed
+INFO - 2022-11-12 10:56:08,617 - S3 scanner - [+] Scanning for files which last modified since 2020-02-16 00:00:00+00:00
+INFO - 2022-11-12 10:56:08,618 - S3 scanner - [+] Successfully loaded CSV file - /Users/jonathan/s3crets_scanner/csv/accounts.csv
+INFO - 2022-11-12 10:56:08,618 - S3 scanner - [+] 6 accounts were loaded
+INFO - 2022-11-12 10:56:21,310 - S3 scanner - [*] Analyzing public bucket - hs-maintenance in maintenance account
